@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ielts-lab"
+version = "0.1.0"
+description = "IELTS Academic learning lab with deterministic Reading/Listening grading, structured strategy notes, and calibrated AI scoring."
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.32.0",
+    "sqlalchemy>=2.0.30",
+    "pydantic>=2.8.0",
+    "pydantic-settings>=2.4.0",
+    "python-dotenv>=1.0.1",
+    "httpx>=0.27.0",
+    "google-genai>=3.5.0",
+    "pymupdf>=1.24.0",
+    "youtube-transcript-api>=0.6.2",
+]
+
+[project.optional-dependencies]
+postgres = [
+    "psycopg[binary]>=3.2.0",
+    "pgvector>=0.3.0",
+]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.24.0",
+    "ruff>=0.6.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.setuptools.packages.find]
+include = ["backend*", "pipelines*"]

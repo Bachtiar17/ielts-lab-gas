@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.passage-serif {
+  font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+}
+
+@keyframes evidencePulse {
+  0%, 100% {
+    box-shadow: 0 0 0 2px rgba(2, 132, 199, 0.55);
+  }
+  50% {
+    box-shadow: 0 0 0 5px rgba(2, 132, 199, 0.25);
+  }
+}
+
+.evidence-flash {
+  animation: evidencePulse 1.6s ease-in-out 2;
+}

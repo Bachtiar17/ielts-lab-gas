@@ -1,0 +1,237 @@
+[
+  {
+    "source_video_id": "starter_tfng",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=True+False+Not+Given+Reading",
+    "title": "Mastering True / False / Not Given Without Overthinking",
+    "channel": "IELTS Advantage",
+    "module": "reading",
+    "question_type": "tfng",
+    "strategy_steps": [
+      "Read the entire statement carefully and identify both the core subject and the qualifying claim (e.g., 'all', 'only', 'first', 'more than').",
+      "Scan the passage in order for synonyms or paraphrases of the subject — remember T/F/NG items follow passage order.",
+      "Read the full surrounding sentence(s) slowly for exact meaning instead of matching isolated keywords.",
+      "Decide TRUE only if the passage explicitly confirms the entire claim, FALSE only if the passage directly contradicts it, and NOT GIVEN if the key comparison or claim is simply absent."
+    ],
+    "common_mistakes": [
+      "Confusing FALSE with NOT GIVEN by assuming an unmentioned detail must be untrue.",
+      "Relying on outside world knowledge instead of strictly what the passage states.",
+      "Ignoring extreme qualifiers like 'always', 'solely', 'exclusively', or 'majority', which frequently flip TRUE into FALSE.",
+      "Writing YES/NO instead of TRUE/FALSE when answering factual T/F/NG questions."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Turn the statement into a yes/no verification question and test whether the passage answers 'yes' (TRUE), 'the opposite' (FALSE), or 'never addresses that specific point' (NOT GIVEN).",
+      "Band 6 -> Band 8: Expect heavy paraphrasing (e.g., 'rarely documented' <-> 'few historical records exist') rather than exact word matches."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage T/F/NG Strategy Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=True+False+Not+Given+Reading"
+      }
+    ]
+  },
+  {
+    "source_video_id": "starter_ynng",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=Yes+No+Not+Given+Reading",
+    "title": "Identifying Writer's Claims: Yes / No / Not Given",
+    "channel": "IELTS Advantage",
+    "module": "reading",
+    "question_type": "ynng",
+    "strategy_steps": [
+      "Focus on the author's opinion, stance, or evaluative claim rather than neutral background facts.",
+      "Locate the target paragraph in passage order using topic anchors and proper nouns.",
+      "Watch for concession markers ('although', 'while some argue', 'however') that separate another researcher's view from the writer's own view.",
+      "Select YES if it matches the writer's view, NO if the writer explicitly disagrees, and NOT GIVEN if the writer expresses no stance on that specific comparison."
+    ],
+    "common_mistakes": [
+      "Attributing a quoted critic's claim to the passage author when the author introduces it only to rebut it.",
+      "Choosing NO when the writer simply does not discuss the predicted consequence or comparison.",
+      "Using TRUE/FALSE labels instead of YES/NO labels."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Track hedging and stance verbs ('contends', 'questions', 'overstates', 'casts doubt on') to identify attitude accurately.",
+      "Band 6 -> Band 8: Verify who holds the belief before checking whether the claim agrees or contradicts."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Y/N/NG Strategy Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=Yes+No+Not+Given+Reading"
+      }
+    ]
+  },
+  {
+    "source_video_id": "starter_matching_headings",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=Matching+Headings+IELTS+Reading",
+    "title": "Matching Headings: Paragraph Main Idea Over Keyword Traps",
+    "channel": "IELTS Advantage",
+    "module": "reading",
+    "question_type": "matching_headings",
+    "strategy_steps": [
+      "Read the shortest paragraphs first and summarize each paragraph's single overarching purpose in 5–8 of your own words before looking closely at the headings.",
+      "Pay close attention to the topic sentence, any turning-point sentence ('however', 'yet', 'in contrast'), and the concluding sentence.",
+      "Compare your own summary against the headings list and shortlist 1–2 candidates.",
+      "Eliminate distractor headings that only describe a minor example or single phrase inside the paragraph."
+    ],
+    "common_mistakes": [
+      "Word-spotting: picking a heading simply because one noun appears verbatim in a supporting example.",
+      "Reading only the first sentence and missing a pivot in the middle of the paragraph that reveals the true main idea.",
+      "Spending too long on one ambiguous paragraph instead of solving clear paragraphs first to shrink the heading pool."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Distinguish between a paragraph's 'main function' (e.g., explaining a limitation, contrasting two designs) and its 'illustrative details'.",
+      "Band 6 -> Band 8: Cross off confirmed headings as you go and revisit tough paragraphs once fewer options remain."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Matching Headings Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=Matching+Headings+IELTS+Reading"
+      }
+    ]
+  },
+  {
+    "source_video_id": "starter_summary_completion",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=Summary+Completion+IELTS+Reading",
+    "title": "Summary & Note Completion: Grammar Prediction and Word Limits",
+    "channel": "IELTS Advantage",
+    "module": "reading",
+    "question_type": "summary_completion",
+    "strategy_steps": [
+      "Underline the exact word/number limit first (e.g., ONE WORD ONLY or NO MORE THAN TWO WORDS).",
+      "Read the sentence around each blank to predict the exact grammatical form needed (singular/plural noun, verb, adjective, number).",
+      "Locate the corresponding section of the passage using anchor nouns and paraphrased verbs.",
+      "Copy the exact word(s) from the passage, then re-read the completed sentence to confirm both grammar and meaning fit."
+    ],
+    "common_mistakes": [
+      "Exceeding the word limit by including unnecessary articles ('the', 'a') or modifiers.",
+      "Dropping a plural '-s' or choosing the wrong part of speech so the completed sentence becomes ungrammatical.",
+      "Spelling mistakes when transcribing academic vocabulary from the passage."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Always verify that your answer does not duplicate a word already printed immediately before or after the gap.",
+      "Band 6 -> Band 8: Remember hyphenated words like 'short-term' count as ONE word under IELTS rules."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Summary Completion Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=Summary+Completion+IELTS+Reading"
+      }
+    ]
+  },
+  {
+    "source_video_id": "starter_note_completion",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=Note+Completion+IELTS+Reading",
+    "title": "Note / Table / Flow-Chart Completion Precision",
+    "channel": "IELTS Advantage",
+    "module": "reading",
+    "question_type": "note_table_flowchart_completion",
+    "strategy_steps": [
+      "Check the strict word/number limit before reading the bullets.",
+      "Use subheadings, dates, and stage labels in the notes to jump directly to the relevant section of the passage.",
+      "Predict the missing part of speech and semantic category (material, mechanism, time period, location).",
+      "Extract exact words from the passage without changing meaning, then double-check spelling and word count."
+    ],
+    "common_mistakes": [
+      "Picking a plausible noun from the right paragraph that answers a different bullet point.",
+      "Exceeding ONE WORD ONLY by adding an adjective that wasn't required.",
+      "Misreading passive-to-active paraphrases in process descriptions."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Track cause-and-effect verbs ('drives', 'prevents', 'enables') to align each bullet precisely with the right mechanism in the text."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Note Completion Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=Note+Completion+IELTS+Reading"
+      }
+    ]
+  },
+  {
+    "source_video_id": "starter_mcq_single",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=Multiple+Choice+IELTS+Reading",
+    "title": "Multiple Choice: Eliminating Plausible Distractors",
+    "channel": "IELTS Advantage",
+    "module": "reading",
+    "question_type": "mcq_single",
+    "strategy_steps": [
+      "Read the question stem carefully FIRST (ignore options A–D initially) so distractors do not bias your reading.",
+      "Locate the target passage segment in order and understand what the text actually says in your own words.",
+      "Evaluate options A–D by elimination: rule out options that are opposite, extreme, only half-true, or unmentioned.",
+      "Confirm the remaining option matches the full meaning of the evidence sentence, not just a reused vocabulary word."
+    ],
+    "common_mistakes": [
+      "Falling for 'word-match distractors' that repeat exact nouns from the passage while distorting the relationship.",
+      "Choosing an option that is true in general life or mentioned elsewhere, but does not answer the specific question stem.",
+      "Selecting the first attractive option without checking all four."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Explicitly label why each eliminated option is wrong (Contradicts / Too Extreme / Wrong Scope / Not Mentioned)."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Multiple Choice Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=Multiple+Choice+IELTS+Reading"
+      }
+    ]
+  },
+  {
+    "source_video_id": "starter_matching_features",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=Matching+Features+IELTS+Reading",
+    "title": "Matching Features & Sentence Endings Without Losing Track",
+    "channel": "IELTS Advantage",
+    "module": "reading",
+    "question_type": "matching_features",
+    "strategy_steps": [
+      "Scan the entire passage first to highlight every occurrence of the listed names, periods, or categories (some appear more than once!).",
+      "Read around the names that appear least frequently first — they are fastest to match cleanly.",
+      "Match statements by paraphrased ideas rather than expecting the same nouns.",
+      "Check whether the instructions say 'NB: You may use any letter more than once'."
+    ],
+    "common_mistakes": [
+      "Stopping after the first mention of a researcher and missing a later paragraph where their key finding is discussed.",
+      "Assuming every letter in the box must be used exactly once when NB allows reuse."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Highlight all instances of each name across the passage before answering any single item."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Matching Features Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=Matching+Features+IELTS+Reading"
+      }
+    ]
+  },
+  {
+    "source_video_id": "starter_short_answer",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=Short+Answer+Questions+IELTS+Reading",
+    "title": "Short-Answer Questions: Exact Fact Extraction Under Word Limits",
+    "channel": "IELTS Advantage",
+    "module": "reading",
+    "question_type": "short_answer",
+    "strategy_steps": [
+      "Check the exact word and number limit immediately (e.g., NO MORE THAN TWO WORDS AND/OR A NUMBER).",
+      "Identify the question word (What, Which, How many, Why) to know the exact target entity.",
+      "Scan in passage order for synonyms of the anchor phrase.",
+      "Lift the exact concise phrase from the passage and count words carefully (hyphenated words = 1 word)."
+    ],
+    "common_mistakes": [
+      "Writing full sentences or adding unnecessary prepositions/articles that break the word limit.",
+      "Answering with a related fact from the same sentence instead of what the question word specifically asks for."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Strip filler words down to the core noun phrase or numeric value directly stated in the text."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Short Answer Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=Short+Answer+Questions+IELTS+Reading"
+      }
+    ]
+  }
+]

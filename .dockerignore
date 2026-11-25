@@ -1,0 +1,25 @@
+# Exclude local dev environments, secrets, Python artifacts, and copyrighted offline refs
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+*.egg-info
+.pytest_cache
+.env
+.env.*
+!.env.example
+node_modules
+frontend/node_modules
+frontend/.next
+frontend/.next-dev
+frontend/.env.local
+backend
+pipelines
+tests
+docs
+data/private_reference
+data/*.db
+data/audio
+*.log
+.DS_Store

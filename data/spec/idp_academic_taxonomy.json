@@ -1,0 +1,206 @@
+{
+  "spec_version": "1.0.0",
+  "source": {
+    "name": "IDP IELTS Academic",
+    "url": "https://ielts.idp.com/about/which-test-do-i-take/academic",
+    "format_note": "Post-2020 IELTS Academic standard (Listening Parts 1-4 without Part 1 spoken example)."
+  },
+  "overall_band_rounding": {
+    "increment": 0.5,
+    "rule": "Mean of the 4 module band scores; .25 rounds up to .5 and .75 rounds up to the next whole band."
+  },
+  "modules": {
+    "reading": {
+      "name": "Academic Reading",
+      "duration_minutes": 60,
+      "total_questions": 40,
+      "passages": 3,
+      "recommended_minutes_per_passage": 20,
+      "scoring_mode": "deterministic",
+      "word_count_rules": {
+        "hyphenated_word_counts_as": 1,
+        "contraction_counts_as": 1,
+        "number_counts_as": "1_number",
+        "uk_us_spelling_equivalent": true
+      },
+      "question_types": [
+        {
+          "id": "tfng",
+          "label": "True / False / Not Given",
+          "category": "identifying_information",
+          "allowed_values": ["TRUE", "FALSE", "NOT GIVEN"],
+          "in_passage_order": true
+        },
+        {
+          "id": "ynng",
+          "label": "Yes / No / Not Given",
+          "category": "identifying_writers_views",
+          "allowed_values": ["YES", "NO", "NOT GIVEN"],
+          "in_passage_order": true
+        },
+        {
+          "id": "mcq_single",
+          "label": "Multiple Choice (Single Answer)",
+          "category": "multiple_choice",
+          "in_passage_order": true
+        },
+        {
+          "id": "mcq_multi",
+          "label": "Multiple Choice (Multiple Answers)",
+          "category": "multiple_choice",
+          "in_passage_order": false
+        },
+        {
+          "id": "matching_headings",
+          "label": "Matching Headings",
+          "category": "matching",
+          "in_passage_order": false
+        },
+        {
+          "id": "matching_information",
+          "label": "Matching Information",
+          "category": "matching",
+          "in_passage_order": false
+        },
+        {
+          "id": "matching_features",
+          "label": "Matching Features",
+          "category": "matching",
+          "in_passage_order": false
+        },
+        {
+          "id": "matching_sentence_endings",
+          "label": "Matching Sentence Endings",
+          "category": "matching",
+          "in_passage_order": true
+        },
+        {
+          "id": "sentence_completion",
+          "label": "Sentence Completion",
+          "category": "completion",
+          "in_passage_order": true,
+          "has_word_limit": true
+        },
+        {
+          "id": "summary_completion",
+          "label": "Summary Completion",
+          "category": "completion",
+          "in_passage_order": true,
+          "has_word_limit": true
+        },
+        {
+          "id": "note_table_flowchart_completion",
+          "label": "Note / Table / Flow-chart Completion",
+          "category": "completion",
+          "in_passage_order": true,
+          "has_word_limit": true
+        },
+        {
+          "id": "diagram_label_completion",
+          "label": "Diagram Label Completion",
+          "category": "completion",
+          "in_passage_order": false,
+          "has_word_limit": true
+        },
+        {
+          "id": "short_answer",
+          "label": "Short-Answer Questions",
+          "category": "short_answer",
+          "in_passage_order": true,
+          "has_word_limit": true
+        }
+      ],
+      "raw_to_band_curve": [
+        {"min_raw": 39, "max_raw": 40, "band": 9.0},
+        {"min_raw": 37, "max_raw": 38, "band": 8.5},
+        {"min_raw": 35, "max_raw": 36, "band": 8.0},
+        {"min_raw": 33, "max_raw": 34, "band": 7.5},
+        {"min_raw": 30, "max_raw": 32, "band": 7.0},
+        {"min_raw": 27, "max_raw": 29, "band": 6.5},
+        {"min_raw": 23, "max_raw": 26, "band": 6.0},
+        {"min_raw": 19, "max_raw": 22, "band": 5.5},
+        {"min_raw": 15, "max_raw": 18, "band": 5.0},
+        {"min_raw": 13, "max_raw": 14, "band": 4.5},
+        {"min_raw": 10, "max_raw": 12, "band": 4.0},
+        {"min_raw": 8, "max_raw": 9, "band": 3.5},
+        {"min_raw": 6, "max_raw": 7, "band": 3.0},
+        {"min_raw": 4, "max_raw": 5, "band": 2.5},
+        {"min_raw": 1, "max_raw": 3, "band": 2.0},
+        {"min_raw": 0, "max_raw": 0, "band": 1.0}
+      ]
+    },
+    "listening": {
+      "name": "Listening",
+      "duration_minutes": 30,
+      "total_questions": 40,
+      "parts": [
+        {"part": 1, "context": "Everyday social conversation between two people"},
+        {"part": 2, "context": "Everyday social monologue"},
+        {"part": 3, "context": "Academic or training discussion (up to 4 speakers)"},
+        {"part": 4, "context": "Academic monologue or university lecture"}
+      ],
+      "scoring_mode": "deterministic",
+      "question_types": [
+        {"id": "mcq_single", "label": "Multiple Choice (Single Answer)"},
+        {"id": "mcq_multi", "label": "Multiple Choice (Multiple Answers)"},
+        {"id": "matching", "label": "Matching"},
+        {"id": "map_plan_diagram", "label": "Plan / Map / Diagram Labelling"},
+        {"id": "form_note_table_completion", "label": "Form / Note / Table / Flow-chart / Summary Completion"},
+        {"id": "sentence_completion", "label": "Sentence Completion"},
+        {"id": "short_answer", "label": "Short-Answer Questions"}
+      ],
+      "raw_to_band_curve": [
+        {"min_raw": 39, "max_raw": 40, "band": 9.0},
+        {"min_raw": 37, "max_raw": 38, "band": 8.5},
+        {"min_raw": 35, "max_raw": 36, "band": 8.0},
+        {"min_raw": 32, "max_raw": 34, "band": 7.5},
+        {"min_raw": 30, "max_raw": 31, "band": 7.0},
+        {"min_raw": 26, "max_raw": 29, "band": 6.5},
+        {"min_raw": 23, "max_raw": 25, "band": 6.0},
+        {"min_raw": 18, "max_raw": 22, "band": 5.5},
+        {"min_raw": 16, "max_raw": 17, "band": 5.0},
+        {"min_raw": 13, "max_raw": 15, "band": 4.5},
+        {"min_raw": 10, "max_raw": 12, "band": 4.0},
+        {"min_raw": 8, "max_raw": 9, "band": 3.5},
+        {"min_raw": 6, "max_raw": 7, "band": 3.0},
+        {"min_raw": 4, "max_raw": 5, "band": 2.5},
+        {"min_raw": 1, "max_raw": 3, "band": 2.0},
+        {"min_raw": 0, "max_raw": 0, "band": 1.0}
+      ]
+    },
+    "writing": {
+      "name": "Academic Writing",
+      "duration_minutes": 60,
+      "scoring_mode": "multimodal_rubric_ai",
+      "tasks": [
+        {
+          "task": 1,
+          "min_words": 150,
+          "recommended_minutes": 20,
+          "weight": 0.3333333333,
+          "criteria": ["TA", "CC", "LR", "GRA"],
+          "visual_types": ["line_graph", "bar_chart", "pie_chart", "table", "map", "process_diagram"]
+        },
+        {
+          "task": 2,
+          "min_words": 250,
+          "recommended_minutes": 40,
+          "weight": 0.6666666667,
+          "criteria": ["TR", "CC", "LR", "GRA"],
+          "essay_types": ["opinion", "discussion", "advantages_disadvantages", "problem_solution", "two_part"]
+        }
+      ]
+    },
+    "speaking": {
+      "name": "Speaking",
+      "duration_minutes_range": [11, 14],
+      "scoring_mode": "native_audio_rubric_ai",
+      "criteria": ["FC", "LR", "GRA", "P"],
+      "parts": [
+        {"part": 1, "duration_minutes_range": [4, 5], "format": "Introduction & familiar topics"},
+        {"part": 2, "duration_minutes_range": [3, 4], "format": "Cue card + 1 min prep + up to 2 min long turn"},
+        {"part": 3, "duration_minutes_range": [4, 5], "format": "Abstract two-way discussion linked to Part 2"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,115 @@
+[
+  {
+    "source_video_id": "starter_listening_form_completion",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=IELTS+Listening+Part+1+Form+Completion",
+    "title": "Listening Part 1: Surviving Self-Corrections & Spelled Details",
+    "channel": "IELTS Advantage",
+    "module": "listening",
+    "question_type": "form_note_table_completion",
+    "strategy_steps": [
+      "During the 30-second preview before audio starts, underline the word/number limit and predict the exact category for every gap (surname, postcode, date, fee, noun).",
+      "Stay alert for speaker self-corrections triggered by 'oh wait', 'actually', 'sorry I meant', or 'that was last year's rate'.",
+      "Write down spelled names and postcodes immediately letter-by-letter; watch out for double letters ('double R') and lookalike letters (G/J, B/P, A/E/I).",
+      "Verify plurals and exact spelling before moving on — missing a final '-s' costs the mark."
+    ],
+    "common_mistakes": [
+      "Writing down the first date, price, or room mentioned and stopping active listening before the speaker corrects themselves.",
+      "Exceeding ONE WORD AND/OR A NUMBER by writing redundant units or articles already printed beside the blank.",
+      "Dropping plural '-s' endings when the surrounding grammar requires a plural noun."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Treat the first number or option spoken in Part 1 as a provisional draft until the conversation clearly moves to the next bullet point."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Listening Part 1 Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=IELTS+Listening+Part+1+Form+Completion"
+      }
+    ]
+  },
+  {
+    "source_video_id": "starter_listening_map_plan",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=IELTS+Listening+Map+Labelling",
+    "title": "Map & Floorplan Labelling: Anchoring Orientation Before Audio Starts",
+    "channel": "IELTS Advantage",
+    "module": "listening",
+    "question_type": "map_plan_diagram",
+    "strategy_steps": [
+      "Locate the 'You Are Here' / Main Entrance point and compass directions (North/South/East/West) before the recording begins.",
+      "Trace every labelled landmark already printed on the map (e.g., courtyard, café, staircase) — the speaker always navigates relative to those anchors.",
+      "Follow the speaker's path physically with your eyes/cursor as they say 'turn left past...', 'directly opposite...', 'in the far corner...'.",
+      "Notice when the speaker resets back to the entrance ('Coming back to the foyer...') for the next question."
+    ],
+    "common_mistakes": [
+      "Losing left/right orientation halfway through a gallery or park tour.",
+      "Confusing 'adjacent to' (next to) with 'opposite' (facing across a corridor or lawn).",
+      "Panicking after missing one label and falling behind on the next three locations."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Mentally map prepositions of place ('just beyond', 'tucked behind', 'flanking the entrance') before pressing Play."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Map Labelling Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=IELTS+Listening+Map+Labelling"
+      }
+    ]
+  },
+  {
+    "source_video_id": "starter_listening_mcq",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=IELTS+Listening+Multiple+Choice",
+    "title": "Listening Parts 2 & 3 Multiple Choice: Defeating Distractor Mentions",
+    "channel": "IELTS Advantage",
+    "module": "listening",
+    "question_type": "mcq_single",
+    "strategy_steps": [
+      "Read the question stem carefully during prep time and underline the exact focus (e.g., 'What do BOTH students agree on?' vs 'Why did Maya change her mind?').",
+      "Expect ALL three options (A, B, C) to be mentioned in the audio — two will be rejected, qualified, or belonged to the past.",
+      "Listen closely to agreement/disagreement markers ('I used to think that, though...', 'Fair point, let's stick with...', 'That sounds expensive').",
+      "Match synonyms rather than exact words from the option list."
+    ],
+    "common_mistakes": [
+      "Picking the first option whose exact keyword is spoken aloud (classic IELTS word-bait distractor).",
+      "Ignoring speaker attribution in Part 3 when one student suggests an idea and the tutor or partner rejects it."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Track each option as 'Mentioned -> Confirmed or Rejected?' instead of locking in early."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Listening MCQ Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=IELTS+Listening+Multiple+Choice"
+      }
+    ]
+  },
+  {
+    "source_video_id": "starter_listening_matching",
+    "source_url": "https://www.youtube.com/@Ieltsadvantage/search?query=IELTS+Listening+Matching+Questions",
+    "title": "Listening Part 3 Matching & Part 4 Lecture Signposting",
+    "channel": "IELTS Advantage",
+    "module": "listening",
+    "question_type": "matching",
+    "strategy_steps": [
+      "Remember that the numbered questions (e.g. 26–30) always occur IN ORDER in the recording, while the lettered box options (A–F) are paraphrases.",
+      "Listen for topic transition signposts ('Moving on to...', 'Next, regarding...', 'Finally, let's look at...') to stay synchronized with the numbered list.",
+      "Focus on the speaker's final verdict or evaluation after discussing pros and cons."
+    ],
+    "common_mistakes": [
+      "Waiting to hear the exact words printed in options A–F instead of listening for paraphrased meanings.",
+      "Losing track of which numbered item is currently being discussed in a fast academic dialogue."
+    ],
+    "band_upgrade_patterns": [
+      "Band 6 -> Band 8: Paraphrase each short option in the box mentally during prep time (e.g., 'lacks statistical reliability' -> 'too small a sample')."
+    ],
+    "timestamp_anchors": [
+      {
+        "time_sec": 0,
+        "topic": "IELTS Advantage Listening Matching Library",
+        "url": "https://www.youtube.com/@Ieltsadvantage/search?query=IELTS+Listening+Matching+Questions"
+      }
+    ]
+  }
+]
